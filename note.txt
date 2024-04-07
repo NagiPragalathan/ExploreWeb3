@@ -1,0 +1,7 @@
+Library
+SafeMath
+
+transfer, send, call
+
+constant, immutable = gas efficiant
+receive, fallback

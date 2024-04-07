@@ -1,0 +1,6 @@
+Install:
+----------------------------------------
+npm i solc (or) yarn add solc
+----------------------------------------
+To compile solidity:  yarn solcjs --bin --abi --include-path node_modules/ --base-path . -o . .\simpleStorage.sol
+ 
