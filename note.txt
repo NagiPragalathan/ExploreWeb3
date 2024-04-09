@@ -5,3 +5,19 @@ transfer, send, call
 
 constant, immutable = gas efficiant
 receive, fallback
+
+
+use ethers V: npm install ethers@5.7.2
+
+
+
+    -------------------------------------------------
+    Step 1: create folder for workspace
+    step 2: npm init
+    step 3: npm install ethers
+    step 4: import ethers
+    step 5: crate main function
+    -------------------------------------------------
+    step 6: create provider
+    step 7: create wallet
+ 
